@@ -1,0 +1,5 @@
+# ignore all node modules
+node_modules/*
+db/*
+# ignore dotenv
+config/config.env
