@@ -1,2 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/RMelZbW3)
 # vacqbackend
+**Here's a guide to getting the vacqbackend project up and running:**
+
+**1. Create the config.env file:**
+
+- Locate a file named `example.env` within the project directory.
+- Make a copy of this file and name it `config.env`. This file will store crucial configuration settings for the project.
+
+**2. Run docker compose up -d:**
+
+- Open a terminal window and navigate to the project directory.
+- Execute the following command:
+    
+    **Bash**
+    
+    `docker compose up -d`
