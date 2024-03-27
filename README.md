@@ -1,4 +1,5 @@
 # vacqbackend
+
 **Here's a guide to getting the vacqbackend project up and running:**
 
 **1. Create the config.env file:**
@@ -13,4 +14,6 @@
     
     **Bash**
     
-    ```docker compose up -d```
+    ```bash
+    docker compose up -d
+    ```
